@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: pedro.romano@hotmail.com
 - 😄 Pronouns: He/Him
+- 👨‍🎓 Gestão da Tecnologia da Informação e Analise e Desenvolvimento de Sistemas
 ##
 
 <div>
